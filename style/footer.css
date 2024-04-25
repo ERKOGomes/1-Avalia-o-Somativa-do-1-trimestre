@@ -4,7 +4,6 @@
     padding: 20px 0;
     text-align: center;
     margin-top: auto;
-
 }
 
 .footer_links_subtitulo {
@@ -31,6 +30,7 @@
     width: 45px;
     margin-bottom: -14px;
 }
+
 .footer_links_navegacao:hover {
     color: #1a0ec2;
     border-radius: 15px;
