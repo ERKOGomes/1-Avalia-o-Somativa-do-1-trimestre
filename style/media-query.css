@@ -1,25 +1,12 @@
 @charset "UTF-8";
-
 @media screen and (max-width: 800px) {
     .apresentacao__conteudo__titulo {
         font-size: 2rem;
     }
-    
     .quem_somos {
         font-size: 2rem;
     }
 }
-
-@media screen and (max-width: 500px) {
-    .apresentacao__conteudo__titulo {
-        font-size: 1.5rem;
-    }
-    
-    .quem_somos {
-        font-size: 1.5rem;
-    }
-}
-
 
 /* Página Individual */
 @media screen and (max-width: 871px) {
