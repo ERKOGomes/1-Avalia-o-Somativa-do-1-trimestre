@@ -8,6 +8,12 @@
     }
 }
 
+@media screen and (max-width: 450px) {
+    .apresentacao__conteudo__texto {
+        font-size: 1rem;
+    }
+}
+
 /* Página Individual */
 @media screen and (max-width: 871px) {
     .container_hard {
